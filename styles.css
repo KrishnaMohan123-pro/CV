@@ -1,0 +1,104 @@
+body{
+    background-color:#f1d1d1;
+    margin: 0px;
+    text-align: center;
+    font-family: serif;
+  }
+  .contact{
+    background-color: #f3e1e1;
+    position: fixed;
+    margin: 0rem auto auto auto;
+    width: 100%;
+    text-align: right;
+    font-size: 1rem;
+    top: 0px;
+  }
+  .name_pic{
+    width: 60%;
+    margin: 2rem auto 1rem 15rem;
+  }
+  img{
+    position: relative;
+    width:15%;
+    left: 5rem;
+    margin: auto 30px auto auto;
+    float: left;
+    z-index: -1;
+  }
+  
+  a{
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    color: brown;
+    font-family: sans-serif;
+    text-decoration: none;
+  }
+  a:hover{
+    color: red;
+  }
+
+  p{
+    margin-left: 10px
+    line-height:2
+  }
+
+  h3{
+    color: brown;
+    font-size: 50px;
+    font-family: times;
+  }
+  .basic{
+    font-size: 20px;
+  }
+  hr{
+    border-style: none;
+    border-top-style : dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 10%
+  }
+  .object{
+    background-color: #f3e1e1;
+    margin: 30px auto;
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+    width: 75%;
+    font-family: Merriweather;
+  }
+  table{
+    background-color: #faf2f2;
+    margin: 0 auto;
+  }
+  .links{
+    background-color: #f3e1e1;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+
+  .btn {
+  background: #f3e1e1;
+  background-image: -webkit-linear-gradient(top, #f3e1e1, #fcabab);
+  background-image: -moz-linear-gradient(top, #f3e1e1, #fcabab);
+  background-image: -ms-linear-gradient(top, #f3e1e1, #fcabab);
+  background-image: -o-linear-gradient(top, #f3e1e1, #fcabab);
+  background-image: linear-gradient(to bottom, #f3e1e1, #fcabab);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  border: solid #e69481 3px;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background: #fcabab;
+  text-decoration: none;
+}
