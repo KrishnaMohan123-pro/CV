@@ -17,7 +17,7 @@ body{
   }
   .name_pic{
     width: 60%;
-    margin: 2rem auto 1rem 15rem;
+    margin: 5rem auto 1rem 15rem;
   }
   img{
     position: relative;
@@ -27,7 +27,7 @@ body{
     float: left;
     z-index: -1;
   }
-  
+
   a{
     margin-right: 0.5rem;
     margin-left: 0.5rem;
@@ -39,8 +39,8 @@ body{
     color: red;
   }
 
- p{
-    margin-left: ;
+  p{
+    margin-left: 10px;
     line-height: 2;
   }
 
@@ -48,6 +48,7 @@ body{
     color: brown;
     font-size: 50px;
     font-family: times;
+    margin-bottom: 0px;
   }
   .basic{
     font-size: 20px;
@@ -72,6 +73,7 @@ body{
   table{
     background-color: #faf2f2;
     margin: 0 auto;
+    font-family: sans-serif;
   }
   .links{
     background-color: #f3e1e1;
