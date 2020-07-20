@@ -7,7 +7,7 @@ body{
   .contact{
     background-color: #f3e1e1;
     position: fixed;
-    margin: 0rem auto auto auto;
+    margin: 0rem auto 40px auto;
     width: 100%;
     text-align: right;
     font-size: 1rem;
