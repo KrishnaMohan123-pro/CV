@@ -23,7 +23,7 @@ body{
     position: relative;
     width:15%;
     left: 5rem;
-    margin: auto 30px auto auto;
+    margin: auto 10px auto 30px;
     float: left;
     z-index: -1;
   }
